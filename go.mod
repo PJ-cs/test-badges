@@ -1,4 +1,4 @@
-module check24.com/test
+module github.com/PJ-cs/test-badges
 
 require github.com/stretchr/testify v1.8.2
 
